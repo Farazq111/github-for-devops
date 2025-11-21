@@ -1,6 +1,6 @@
 mkdir github-for-devops
 ls github-for-devops/
-  ls
+ls
   cd github-for-devops/
   ls
   clear
@@ -24,4 +24,5 @@ ls github-for-devops/
   git status
   git commit -m "2nd version"
   git status
-  
+
+this is modify file
